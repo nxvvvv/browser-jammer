@@ -1,4 +1,4 @@
-# Browser-Jammer
+[![browser-jammer](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=browser-jammer&theme=dark)](https://github.com/navaneethkm004/browser-jammer)<br/>
 
  Instantly jamms the browser windows.
 
